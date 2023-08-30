@@ -1,0 +1,53 @@
+
+        body {
+            color: black;
+            text-align: center;
+            font-size: 25px;
+  background-color:aquamarine;
+
+
+
+        }
+        
+        table {
+            margin-center: 200px;
+            text-align: center;
+            font-size: 30px;
+        }
+        
+        input {
+            margin: 30px;
+            height: 50px;
+            width: 291px;
+            font-size: 40px;
+            opacity: 0.5;
+            font-weight: bold,italic;
+        }
+        
+        .input :hover {
+            border-color: white;
+        }
+        
+        button {
+            color: rgb(249, 247, 247);
+            background-color: green;
+            width: 70px;
+            height: 65px;
+            font-weight: bold,italic;
+            font-size: 25px;
+        }
+        
+        button:hover {
+            background-color:whitesmoke;
+            color:blue;
+            border-color:green;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        .calculator {
+            text-align: center;
+            align-content: center;
+        }
